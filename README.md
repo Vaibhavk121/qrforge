@@ -2,6 +2,8 @@
 
 QRForge is a modern, feature-rich QR code generator built with React and Vite. Create customized QR codes with real-time preview, multiple styling options, and logo embedding capabilities.
 
+🚀 **[Try QRForge Now](https://qrforge-one.vercel.app/)**
+
 ![QRForge Header](./public/qrforge-preview.png)
 
 ## ✨ Features
@@ -43,7 +45,7 @@ QRForge is a modern, feature-rich QR code generator built with React and Vite. C
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/qrforge.git
+git clone https://github.com/vaibhavk121/qrforge.git
 ```
 2. Install dependencies:
 ```bash
@@ -84,6 +86,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Tailwind CSS team
 - React.js community
 ## 📧 Contact
-Your Name - your.email@example.com
+Vaibhav Kumar - vaibhavkumar10112004@gmail.com
 
-Project Link: https://github.com/yourusername/qrforge
+🌐 Live Demo: [QRForge App](https://qrforge-one.vercel.app/)
+
+Project Link: https://github.com/vaibhavk121/qrforge
